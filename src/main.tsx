@@ -26,6 +26,7 @@ function App() {
       <span className="floating-heart heart-three"><HeartIcon /></span>
 
       <section className="love-card" aria-labelledby="page-title">
+        <p className="dedication">Yathin to Sarang</p>
         <div className="hero-heart"><HeartIcon /></div>
         <h1 id="page-title">Hi,<br /><span>I love you</span></h1>
         <p className="message">My projects for you</p>
