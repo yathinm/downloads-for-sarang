@@ -33,7 +33,7 @@ function App() {
 
         <a className="download-button" href="/downloads/projects-for-you.zip" download>
           <DownloadIcon />
-          <span>Download below</span>
+          <span>Loopy Reminders</span>
         </a>
       </section>
     </main>
