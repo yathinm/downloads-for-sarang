@@ -26,27 +26,15 @@ function App() {
       <span className="floating-heart heart-three"><HeartIcon /></span>
 
       <section className="love-card" aria-labelledby="page-title">
-        <div className="card-topline">
-          <span className="topline-dot" />
-          <span>made with love</span>
-          <span className="topline-dot" />
-        </div>
-
         <div className="hero-heart"><HeartIcon /></div>
-        <p className="eyebrow">for you, Sarang</p>
         <h1 id="page-title">Hi,<br /><span>I love you</span></h1>
         <p className="message">My projects for you</p>
-        <p className="submessage">A few little things made with a lot of love.</p>
 
         <a className="download-button" href="/downloads/projects-for-you.zip" download>
           <DownloadIcon />
           <span>Download below</span>
         </a>
-
-        <p className="download-note">Your little bundle is ready ♡</p>
       </section>
-
-      <footer>always yours <span aria-hidden="true">♥</span></footer>
     </main>
   )
 }
