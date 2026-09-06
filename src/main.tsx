@@ -31,7 +31,7 @@ function App() {
         <h1 id="page-title">Hi,<br /><span>I love you</span></h1>
         <p className="message">My projects for you</p>
 
-        <a className="download-button" href="https://github.com/yathinm/downloads-for-sarang/releases/download/v1.0.0/Loopy-Reminders-mac-arm64.zip" download>
+        <a className="download-button" href="https://github.com/yathinm/downloads-for-sarang/releases/download/v1.0.0/Loopy-Reminders-mac-arm64-signed-1.zip" download>
           <DownloadIcon />
           <span>Loopy Reminders</span>
         </a>
