@@ -48,6 +48,11 @@ const projects = [
     href: 'https://loopy-sweeper.vercel.app/',
     download: false,
   },
+  {
+    name: 'Loopy Solitaire',
+    href: 'https://loopy-solitaire.vercel.app/',
+    download: false,
+  },
 ]
 
 function App() {
