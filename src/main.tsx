@@ -53,6 +53,11 @@ const projects = [
     href: 'https://loopy-solitaire.vercel.app/',
     download: false,
   },
+  {
+    name: 'Loopy Budgeter',
+    href: 'https://loopy-budgeter.vercel.app/',
+    download: false,
+  },
 ]
 
 function App() {
